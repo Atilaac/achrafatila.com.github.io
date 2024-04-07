@@ -1,50 +1,50 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Achraf Atila
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ashraf Atila
 
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# Full name
+first_name: Achraf
+last_name: Atila
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😄
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universität Des Saarlandes
+    url: https://www.lmp.uni-saarland.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are focused on atomistic simulations of different properties of materials including but not limited to mechanical properties, bioactivity, thermodynamics, and structure.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Inorganic glasses
+  - Mechanical properties
+  - Anisotropy in Glasses
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD in Materials Science and Engineering
+    institution: Friedrich-Alexander-Universität Erlangen-Nürnberg
+    year: 2023
+  - course: MSc in Physics and New Technologies
+    institution: Hassan II University Casablanca
+    year: 2017
+  - course: BSc Physics and Applications
+    institution: Hassan II University Casablanca
+    year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,28 +53,24 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Latex
         description: ''
-        percent: 40
+        percent: 90
         icon: database
         icon_pack: fas
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
@@ -93,32 +89,50 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:achraf.atila@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=TTAujLUAAAAJ&hl=en
+
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Achraf_Atila  
+
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/search/cond-mat?searchtype=author&query=Atila%2C+A
+
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0003-4148-5908
+
+  - icon: publons
+    icon_pack: ai
+    link: https://www.webofscience.com/wos/author/record/1143408
+
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/AchrafAtila
+
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/Atilaac
+
+  - icon: instagram
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+    link: https://www.instagram.com/achraf.atila/
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/CV.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Achraf Atila studied physics at the University of Hassan II in Casablanca, from which he obtained his Bachelor of Science in physics and applications in 2015 and Master of Science in physics and new technologies in 2017. After finishing his M.Sc, he moved to Germany and started a Ph.D. in the group of Prof. Dr.-ing. Erik Bitzek at the Institute I: General Materials Properties, Department of Materials Science and Engineering, FAU in Erlangen. Starting from July 2022 he joined the group of Prof. Dr. Martin Müser as a postdoctoral research associate working on atomistic simulations of different organic and inorganic materials. From July 2021 till December 2022, Achraf held a guest scientist position at Max-Planck-Institut für Eisenforschung GmbH in Düsseldorf, Germany.
+
+Achraf is a computational material scientist, focusing on amorphous materials, with a strong interest in the relationship between composition, structure, and other physical properties. His research mostly focuses on the mechanical behavior and deformation mechanisms in glasses.
 {style="text-align: justify;"}
